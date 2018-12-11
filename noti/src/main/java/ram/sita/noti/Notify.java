@@ -1,4 +1,4 @@
-package ram.sita.onotification;
+package ram.sita.noti;
 
 import android.app.Notification;
 import android.app.NotificationChannel;

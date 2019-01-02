@@ -1,4 +1,4 @@
-package ram.sita.onotification;
+package coder.sita.onotification;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package ram.sita.noti;
+package coder.sita.noti;
 
 import org.junit.Test;
 

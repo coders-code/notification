@@ -1,4 +1,4 @@
-package ram.sita.onotification;
+package coder.sita.onotification;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
